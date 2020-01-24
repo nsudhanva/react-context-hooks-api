@@ -14,7 +14,7 @@ class BookList extends Component {
           <li style={{ background: theme.ui }}>the way of kings</li>
           <li style={{ background: theme.ui }}>the name of the wind</li>
           <li style={{ background: theme.ui }}>the final empire</li>
-        </ul>
+        </ul> 
       </div>
     );
   }
